@@ -1,0 +1,2 @@
+kaggle-environments>=0.1.6
+gym==0.25.2
