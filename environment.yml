@@ -1,0 +1,7 @@
+name: conecta_4_env
+dependencies:
+  - python=3.10.12
+  - pip
+  - pip:
+      - kaggle-environments==1.16.
+      - gym==0.25.2
